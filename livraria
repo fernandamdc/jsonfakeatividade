@@ -1,0 +1,15 @@
+"Livraria": [{
+		"livro": {
+			"titulo": "A casa do mar cerúleo",
+			"ano_lancamento": 1984,
+		}
+	}, {
+		"livro": {
+			"titulo": "Anne de Greengables",
+			"ano_lancamento": 1994,
+	}, {
+		"livro": {
+			"titulo": "Antes de nós",
+			ano_lancamento": 1975,
+	}
+}]
